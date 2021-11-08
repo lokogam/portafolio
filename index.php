@@ -41,7 +41,7 @@
     <header id="header">
         <div class="container">
 
-            <h1><a href="index.html">Duvan Gamboa </a></h1>
+            <h1><a href="index.php">Duvan Gamboa </a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
             <h2>Soy un apasionado por la <span>programacion</span> y el <span>marketing digital</span> .</h2>
@@ -469,24 +469,12 @@
                                     <br>Tecnologías utilizadas: <br> PHP, MySQL, CodeIgniter, SB Admin, Bootstrap, jQuery, DataTables, FPDF, Sweetalert, Font Awesome, Chart.js
 
                                 </li>
-                                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                                <li>Sistema de inventario echo en Java con el patrón (MVC) modelo vista controlador con conexión a una base de datos con CRUD para editar, eliminar, agregar y buscar en la base de datos .</li>
+                                
                             </ul>
                         </p>
                     </div>
-                    <div class="resume-item">
-                        <h4>Graphic design specialist</h4>
-                        <h5>2017 - 2018</h5>
-                        <p><em>Stepping Stone Advertising, New York, NY</em></p>
-                        <p>
-                            <ul>
-                                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-                            </ul>
-                        </p>
-                    </div>
+                    
                 </div>
             </div>
 
@@ -500,55 +488,23 @@
 
             <div class="section-title">
                 <h2>Services</h2>
-                <p>My Services</p>
+                <p>MIS SERVICIOS</p>
             </div>
 
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                        <h4><a target="_blank" href="https://github.com/lokogam/POS">Sistema de punto de venta</a></h4>
+                        <p>PHP, MySQL, CodeIgniter, SB Admin, Bootstrap, jQuery, DataTables, FPDF, Sweetalert, Font Awesome, Chart.js</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="">Sed ut perspiciatis</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="">Magni Dolores</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-world"></i></div>
-                        <h4><a href="">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-slideshow"></i></div>
-                        <h4><a href="">Dele cardo</a></h4>
-                        <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-arch"></i></div>
-                        <h4><a href="">Divera don</a></h4>
-                        <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                        <h4><a target="_blank" href="https://github.com/lokogam/sisAlmacen">Sistema de inventario </a></h4>
+                        <p>java patron MVC Y CRUD y una base dedatos en MySQL.</p>
                     </div>
                 </div>
 
@@ -564,8 +520,8 @@
         <div class="container">
 
             <div class="section-title">
-                <h2>Contact</h2>
-                <p>Contact Me</p>
+                <h2>CONTACTO</h2>
+                <p>CONTÁCTAME</p>
             </div>
 
             <div class="row mt-2">
@@ -573,21 +529,19 @@
                 <div class="col-md-6 d-flex align-items-stretch">
                     <div class="info-box">
                         <i class="bx bx-map"></i>
-                        <h3>My Address</h3>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                        <h3>Mi dirección</h3>
+                        <p>Vélez/Santander</p>
                     </div>
                 </div>
 
                 <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
                     <div class="info-box">
                         <i class="bx bx-share-alt"></i>
-                        <h3>Social Profiles</h3>
+                        <h3>Perfiles sociales</h3>
                         <div class="social-links">
-                            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                            <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/duvan.gamboa.5/" class="facebook"><i class="bi bi-facebook"></i></a>
+                            
+                            <a target="_blank" href="https://www.linkedin.com/in/duvan-gamboa-5193951b2/" class="linkedin"><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
                 </div>
@@ -595,15 +549,15 @@
                 <div class="col-md-6 mt-4 d-flex align-items-stretch">
                     <div class="info-box">
                         <i class="bx bx-envelope"></i>
-                        <h3>Email Me</h3>
-                        <p>contact@example.com</p>
+                        <h3>Envíeme un correo electrónico</h3>
+                        <p>Duvangamboa8@gmail.com</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 d-flex align-items-stretch">
                     <div class="info-box">
                         <i class="bx bx-phone-call"></i>
-                        <h3>Call Me</h3>
-                        <p>+1 5589 55488 55</p>
+                        <h3>Llámame</h3>
+                        <p>(+57)315 633 4898</p>
                     </div>
                 </div>
             </div>
@@ -619,7 +573,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/personal-free-resume-bootstrap-template/ -->
-        Diseñada por <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Diseñada por <a href="">Duvan Gamboa</a>
     </div>
 
     <!-- Vendor JS Files -->
