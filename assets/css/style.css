@@ -848,6 +848,7 @@ section .container {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     background: #18d26e;
+
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -948,6 +949,7 @@ section .container {
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
     color: #63eda3;
+    
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -971,6 +973,7 @@ section .container {
     bottom: 15px;
     right: 15px;
 }
+
 
 
 /*--------------------------------------------------------------
@@ -1022,6 +1025,14 @@ section .container {
 .portfolio-details .portfolio-info p {
     font-size: 15px;
     padding: 15px 0 0 0;
+}
+
+.portfolio-details .portfolio-info .bbtn {
+    background: #18d26e;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 @media (max-width: 992px) {
