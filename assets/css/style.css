@@ -1010,6 +1010,7 @@ section .container {
     font-size: 22px;
     font-weight: 400;
     margin-bottom: 20px;
+    color: #18d26e;
 }
 
 .portfolio-details .portfolio-info ul {
